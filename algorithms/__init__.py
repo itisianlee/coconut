@@ -1,1 +1,1 @@
-from .perceptron import pla
+from .perceptron import pla, plaDualForm
